@@ -92,7 +92,7 @@ This project is open for personal and educational use.
 
 ## Note
 
-The executable file is run on the background and store keys in a .txt file if you want to close the program. go to task manager > run.exe > end process
+The executable file runs in the background and store keys in a .txt file if you want to close the program. go to task manager > run.exe > end process
 
 ---
 
