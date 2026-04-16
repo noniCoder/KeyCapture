@@ -334,7 +334,7 @@ void alphabetKey(fstream &file, int key, bool capital){
 }
 
 int main(){
-    // ShowWindow(GetConsoleWindow(), SW_HIDE); //Hides the console window
+    ShowWindow(GetConsoleWindow(), SW_HIDE); //Hides the console window
 
     cout << "Running" << endl;
 
